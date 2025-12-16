@@ -107,7 +107,7 @@
 - **预备：**为下一步腾出空间/调整姿态。
 - **安全：**激活安全互锁/避免碰撞等。
 
-> **重要说明：**Reason 不要求覆盖全部锚点；没有合理 reason 的动作可以""留空。
+> **重要说明：**Reason 不要求覆盖全部锚点；没有合理 reason 的动作可以让""留空。
 
 ---
 
@@ -138,13 +138,15 @@ A male athlete stands in the preparation area. <A1>He shrugs his shoulders and t
       "id": "A2",
       "start_frame": 197,
       "end_frame": 275,
-      "description": "He walks to the barbell."
+      "description": "He walks to the barbell.",
+      "reason": ""
     },
     {
       "id": "A3",
       "start_frame": 275,
       "end_frame": 310,
-      "description": "He adjusts his feet to shoulder width."
+      "description": "He adjusts his feet to shoulder width.",
+      "reason": ""
     },
     {
       "id": "A4",
