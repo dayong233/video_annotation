@@ -8,7 +8,7 @@
 - 在 Caption 内用 **动作锚点标签 `<A1>...</A1>`** 标记需要对齐的原子动作；
 - 用结构化 `actions[]` 为每个锚点提供 **时间/帧对齐**，并可选提供 **reason**（不要求覆盖全部动作）。
 
-> **输出语言要求：**最终的 `caption`、`actions[].text` 与 `actions[].reason` 统一为 **英文**。
+> **输出语言要求：**最终的 `caption`、`actions[].description` 与 `actions[].reason` 统一为 **英文**。
 
 ---
 
@@ -36,7 +36,7 @@
       "end_frame": 113,
 
       // 可选：建议保存锚点内的动作文本，便于校验（也可以由程序从 caption 中抽取）
-      "text": "He shrugs his shoulders and takes a deep breath.",
+      "description": "He shrugs his shoulders and takes a deep breath.",
 
       // 可选：不要求覆盖所有动作；只在“有解释价值”时填写
       "reason": "Loosen the upper body and regulate breathing to prepare for the upcoming exertion.",
@@ -123,7 +123,7 @@ A male athlete stands in the preparation area. <A1>He shrugs his shoulders and t
 
 ```json
 {
-  "video_name": "30k-xx.mp4",
+  "video_name": "xxx.mp4",
   "fps": 30,
   "caption": "A male athlete stands in the preparation area. <A1>He shrugs his shoulders and takes a deep breath.</A1> <A2>He walks to the barbell.</A2> <A3>He adjusts his feet to shoulder width.</A3> <A4>He raises his head, fixes his gaze forward, and inhales deeply.</A4>",
   "actions": [
@@ -131,26 +131,26 @@ A male athlete stands in the preparation area. <A1>He shrugs his shoulders and t
       "id": "A1",
       "start_frame": 72,
       "end_frame": 113,
-      "text": "He shrugs his shoulders and takes a deep breath.",
+      "description": "He shrugs his shoulders and takes a deep breath.",
       "reason": "Loosen the upper body and regulate breathing to prepare for the upcoming exertion."
     },
     {
       "id": "A2",
       "start_frame": 197,
       "end_frame": 275,
-      "text": "He walks to the barbell."
+      "description": "He walks to the barbell."
     },
     {
       "id": "A3",
       "start_frame": 275,
       "end_frame": 310,
-      "text": "He adjusts his feet to shoulder width."
+      "description": "He adjusts his feet to shoulder width."
     },
     {
       "id": "A4",
       "start_frame": 310,
       "end_frame": 367,
-      "text": "He raises his head, fixes his gaze forward, and inhales deeply.",
+      "description": "He raises his head, fixes his gaze forward, and inhales deeply.",
       "reason": "Stabilize posture and attention before initiating the lift."
     }
   ]
