@@ -1,6 +1,6 @@
 [
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/27k-21-2-2-P2-0-508.mp4",
+        "video_na me": "27k-21-2-2-P2-0-508.mp4",
         "caption": "<A1>记录者朝餐桌方向走去，身体微微右转，使视线和躯干正对桌面上的搅拌机容器。随着逐步接近，记录者抬起右臂，右手张开，五指伸直并拢，掌心朝左，对准搅拌机透明容器的中部。</A1>,<A2>当右手靠近时，虎口部位对准搅拌机容器侧面，拇指与其余四指合拢，环绕并牢固握住容器的中段（采用圆柱形抓握方式）。随后，右手垂直向上施力，将搅拌机容器从底座上提起。</A2>,<A3>记录者保持右臂屈肘状态，稳稳握住搅拌机容器，身体向左旋转180度，随后向前行走，来到厨房水槽前。在此过程中，右手始终确保容器保持直立。</A3>,<A4>到达水槽后，记录者伸出左手，用手指握住水龙头开关手柄，向外拉动并调整角度，打开水流。与此同时，右手继续保持搅拌机容器悬停于水槽上方。</A4>,<A5>记录者右手将搅拌机容器稳定在水流下方，左手则松开水龙头，移至容器顶部，抓住绿色盖子的边缘，向上施力，将盖子从容器上拔出，实现分离。</A5>,<A6>左手捏住绿色盖子，将其置于水流下进行冲洗，冲洗过程中手指可能轻微调整抓握位置，以确保盖子各部位均被清洗。此时，右手将敞口的容器移至水流下方进行注水。</A6>,<A7>左手将冲洗完毕的盖子暂时移离水流（或继续握于手中），右手则稳住容器，使其持续接水。待注入少量水后，右手手腕轻微晃动，带动容器内的水产生旋转震荡，以达到初步冲洗效果。</A7>,<A8>随后，记录者右手手腕进行内旋（旋前动作），将搅拌机容器完全倒置，使内部污水通过水槽排水口排出。</A8>,<A9>最后，记录者将倒空水的容器恢复直立状态，左手持绿色盖子对准容器口，向下按压，将盖子重新盖紧。</A9>",
         "actions": [
             {
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/28k-11-5-1-P1-0-437.mp4",
+        "video_name": "28k-11-5-1-P1-0-437.mp4",
         "caption": "记录者伸出右臂，手掌张开，手指与拇指分开，朝向台面上放置的方便面碗的顶部边缘移动，并在接触时通过手指的收缩抓住碗盖边缘。<A1>记录者右手紧握方便面碗，垂直向上提起，使其脱离台面，随后通过腰部与腿部的协同转动，将身体转向左侧后方，准备离开水槽区域。</A1><A2>记录者保持右手抓握方便面碗的姿势，手臂自然下垂并保持适度肌肉张力以稳定碗体，双腿交替迈步，穿过厨房地面，朝中央岛台方向前进。</A2><A3>到达岛台后，记录者伸出右手，将方便面碗平稳放置于岛台的大理石台面上，随后松开手指，收回右手。</A3><A4>记录者右手迅速从台面下移，手指弯曲扣住抽屉把手，在向后退步的同时施力，水平向外拉开抽屉。</A4><A5>抽屉完全打开后，记录者目光扫视抽屉内的餐具格，右手伸入并在其上方短暂停顿，随后以拇指与食指进行精细操作，从堆叠的餐具中捏住一把叉子的柄部。</A5><A6>记录者右手捏住叉子，将其垂直提起脱离餐具格，随后在空中旋转手腕，调整持握姿态，以类似握笔的方式握住叉子柄部。</A6><A7>记录者右手持叉，手指微调抓握位置，身体重心同步进行细微调整，目光聚焦于手中的叉子，似乎在进行检查或单纯保持持握状态。</A7><A8>",
         "actions": [
             {
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/29k-11-7-1-P1-0-445.mp4",
+        "video_name": "29k-11-7-1-P1-0-445.mp4",
         "caption": "<A1>记录者通过移动双腿，将身体从厨房一侧移至水槽前方，视线由整体环境逐渐聚焦于水槽区域。</A1>,<A2>记录者左手持一只盛有黄色液体的白色马克杯，手臂抬起并向前伸展，将杯子精准定位在水槽左侧盆的上方。</A2>,<A3>记录者伸出右手，手指自然张开接近水龙头，随后以拇指与食指/中指捏住水龙头开关手柄，并向上提起以开启水流。</A3>,<A4>记录者左手微调马克杯位置，使杯口正对下流水柱，承接清水入杯，同时右手保持在水龙头附近，准备随时进行调节。</A4>,<A5>记录者左手手腕轻微晃动并做圆周运动，带动杯内水流形成旋涡，随后手腕向大拇指方向内旋，使杯口朝下倾斜。</A5>,<A6>记录者保持左手杯口向下倾斜的姿势，将杯内液体完全倒入水槽排水口，同时右手再次伸向水龙头开关。</A6>,<A7>记录者右手向下按压水龙头开关手柄，关闭水流，同时左手将马克杯翻转至杯口朝上，并向身体方向收回。</A7>,<A8>记录者低头短暂注视杯内情况，确认清洗效果，随后身体左转，左手持杯随身体动作离开水槽区域。</A8>,<A9>记录者迈步移动，视线扫过厨房的炉灶与冰箱区域，手持杯子离开厨房核心区域。</A9>",
         "actions": [
             {
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/30k-12-4-2-P1-0-430.mp4",
+        "video_name": "30k-12-4-2-P1-0-430.mp4",
         "caption": "<A1>[记录者]抬起右臂，手掌张开，掌心朝左，拇指与食指微微张开，准确伸向头顶上方白色橱柜一扇门上的小圆形金属旋钮。</A1>,<A2>[记录者]用右手拇指与食指的指腹捏住金属旋钮两侧，随后通过收缩肱二头肌弯曲肘部，并配合肩部后展动作，将橱柜门向后拉开。</A2>,<A3>[记录者]右手松开旋钮，迅速将手掌呈拱形伸入橱柜内部。右手食指至小指越过最上方白色碗的碗沿伸入碗内，拇指按压于碗外侧壁，形成扣抓姿势，随后垂直向上提起该碗。</A3>,<A4>[记录者]右手保持扣抓碗沿的姿势将碗从橱柜中取出并降至腰部高度，同时身体向左旋转。此时视野中可见左手以全手掌环绕握持（Power Grip）的方式持有一个残留液体的玻璃杯/搅拌杯，双臂协同持物走向水槽。</A4>,<A5>[记录者]身体前倾靠近水槽，左臂伸出将玻璃杯送入黑色水槽左侧空间。当杯底接近水槽底部时，左手手腕轻微旋内调整角度，随后松开五指，将杯子平稳放置于水槽内。</A5>,<A6>[记录者]随即伸出右臂，右手保持扣抓碗沿的姿态，将白色碗送入水槽右侧（玻璃杯旁的空位）。随着手臂下放，右手手指伸展松开碗沿，将碗平稳放置于水槽底部。</A6>",
         "actions": [
             {
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/27k-11-2-3-P1-424-924.mp4",
+        "video_name": "27k-11-2-3-P1-424-924.mp4",
         "caption": "<A1>记录者左手握持一个灰色圆柱形杯状物体，右手伸向水龙头开关，将其推至关闭位置，随后右手收回。</A1>,<A2>记录者身体右转，左手保持握持灰色物体，步行穿过房间走向木制餐桌。到达桌边后，左手伸出并将灰色物体放置在桌面上。</A2>,<A3>记录者伸出右手，手指张开，抓握住放置在桌上的透明搅拌杯瓶身中部，将其拿起，同时身体开始向左后方转动。</A3>,<A4>记录者手持透明搅拌杯走回厨房水槽前。到达后，右手将搅拌杯调整或交接给左手辅助固定，随即右手伸出拉开水龙头开关，开启水流。</A4>,<A5>记录者左手握住透明搅拌杯的瓶身，将其保持在水平位置；右手抓住瓶口处的绿色盖子，发力逆时针旋转，将其拧下并与瓶身分离。</A5>,<A6>记录者右手拿着拆下的绿色盖子，将其置于水流下冲洗，手指配合转动盖子以改变冲洗角度。左手此时将透明瓶身移至水流外侧等待。</A6>,<A7>记录者将绿色盖子放下（放入水槽中），随即用右手将透明搅拌杯移至水流下方。双手配合（左手可能辅助扶持或调整），转动瓶身清洗外壁和内部，并倾斜瓶口倒出积水。</A7>,<A8>记录者左手将洗好的透明瓶身放置在水槽内侧，右手伸向水槽底部抓起一个灰色的刀座组件。随后双手将该组件置于水流下，手指在组件表面及内部摩擦清洗。</A8>",
         "actions": [
             {
@@ -270,7 +270,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/27k-12-11-2-P1-3461-3873.mp4",
+        "video_name": "27k-12-11-2-P1-3461-3873.mp4",
         "caption": "The recorder holds a blue plate with meat slices using an open left hand, supporting the bottom of the plate while keeping the forearm horizontal. The right hand extends forward, pinching the stove control knob between the thumb, index, and middle fingers in a precision pinch grip, then rotates it to adjust the setting.  \n\nThe recorder releases the knob, letting the right arm naturally drop to the side, and turns the torso approximately 90 degrees toward the rear right, stepping away from the stove area with alternating feet. The left elbow remains bent at about 90 degrees, holding the plate close to the waist as the body moves.  \n\nContinuing to walk forward across the room, the recorder maintains the plate-supporting posture with the left hand, making subtle wrist adjustments in opposition to the rhythm of walking. The head and gaze shift forward toward the dining table.  \n\nUpon reaching the dining table, the recorder slows and stops. The right hand lifts from the side and extends forward, palm fully open with fingers naturally spread, facing downward, and the thenar eminence aligned with a bag of bread on the table.  \n\nThe recorder presses the right hand down onto the top of the bread bag—adorned with a Stars and Stripes pattern—grasping the",
         "actions": [
             {
@@ -306,7 +306,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/30l-22-3-1-P1-511-1094.mp4",
+        "video_name": "30l-22-3-1-P1-511-1094.mp4",
         "caption": "The recorder holds a mug in each hand—white in the left, dark-colored in the right—with arms hanging naturally at their sides and wrists held rigid. They slowly step forward toward the person seated on the sofa, matching their pace with steady rhythm.  \n\nUpon stopping, the recorder extends their right arm forward, pinching the top rim of the dark mug between their fingers and presenting the body of the cup toward the seated person. Keeping the right arm extended and the mug’s height stable, they wait until the seated person grasps the mug; once they feel it securely held, the recorder opens their fingers and releases the rim.  \n\nThe recorder then retracts their right arm, lowers their center of gravity, and leans back to sit down, all while maintaining balance of the white mug in their left hand.  \n\nSeated on the sofa, they pick up a black remote control resting near their lap with their right hand, positioning their thumb over the button area on the front and adjusting their grip.  \n\nWith their left hand, they raise the white mug toward their face (below eye level), rotating the wrist inward to tilt the cup’s opening slightly, then lower it back to a level position.  \n\nRemaining seated, they rest the white mug on their lap with their left hand",
         "actions": [
             {
@@ -354,7 +354,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/30l-22-2-3-P2-0-462.mp4",
+        "video_name": "30l-22-2-3-P2-0-462.mp4",
         "caption": "The recorder raises their right arm, palm open and fingers slightly curved, moving toward the door handle of the upper cabinet on the right. They then grasp the handle with their thumb and index finger. Maintaining this grip, they retract their right arm backward and to the right, flexing the elbow to rotate the cabinet door open around its hinges. The recorder releases the handle, reaches their right hand into the cabinet, opens their fingers toward the handle of the blue fly swatter, curls their fingers to form a cylindrical grip around the handle, and pulls it out. While holding the object in their right hand, they raise their left hand and use the palm and fingers to press against the edge of the open cabinet door, pushing it forward and to the right until it closes.",
         "actions": [
             {
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/30l-21-5-2-P2-1482-1976.mp4",
+        "video_name": "30l-21-5-2-P2-1482-1976.mp4",
         "caption": "The recorder extends their right hand, palm down, and opens the thumb and index finger (forming a \"tiger's mouth\") near the red Joy-Con controller on the coffee table. Then, using the tips of the thumb, index, and middle fingers, they grip both sides of the controller and lift it vertically off the table.  \n\nHolding the controller securely, the recorder keeps their right elbow slightly bent, suspending the controller at waist height in front of their body. Simultaneously, they alternate steps with both legs, turning and walking toward the TV cabinet.  \n\nUpon reaching the cabinet, the recorder stops, extends their right arm forward, and rotates the wrist inward to orient the red controller vertically. They precisely align the controller’s inner rail with the right-side slot of the Switch console and apply downward pressure to slide it fully into place.  \n\nOnce the controller is fully inserted, the recorder releases their grip by opening the thumb and fingers, then retracts the right arm back to their side.  \n\nPivoting on both feet, the recorder rotates their torso approximately 180 degrees to the left rear, with their head (and camera view) turning accordingly, sweeping their gaze from the TV cabinet back toward the living room sofa area.",
         "actions": [
             {
@@ -420,7 +420,7 @@
         ]
     },
     {
-        "video_path": "/Users/liudayong/SANY/video_annotation/test/30l-12-2-4-P1-893-1702.mp4",
+        "video_name": "30l-12-2-4-P1-893-1702.mp4",
         "caption": "The recorder steadies the left edge of a transparent plastic container with their left hand and scrubs the inner side walls and bottom with a back-and-forth motion using a cleaning brush held in their right hand, which has a blue handle.  \n\nThey set the brush down, then open their right palm and grip the right edge of the container with their thumb and fingers, while the left hand continues gripping the left edge. Both arms work together to lift the container smoothly off the table.  \n\nMaintaining this two-handed grip on the container’s edges, the recorder turns and walks toward the sink, keeping their arms slightly bent and holding the container at chest-to-abdomen height in front of their body.  \n\nUpon reaching the sink, they extend both arms downward, lean forward slightly, and slowly lower the container into the black sink basin—but do not fully release it, keeping both hands on its sides.  \n\nWith their left hand still pressing down on the container’s left edge to secure it against the sink base, they release the right hand from the container, reach up, grasp the handle of the high-arch faucet, and pull it outward to turn on the water.  \n\nOnce water flows, they let go of the faucet and return their right hand to the container’s right",
         "actions": [
             {
