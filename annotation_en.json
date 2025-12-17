@@ -1,0 +1,249 @@
+[
+  {
+    "video_name": "26k-11-1-4-P1-0-672.mp4",
+    "fps": 15,
+    "caption": "The recorder extends the left hand with fingers spread and moves the palm toward a beige mug on the tabletop. The left index finger slips through the handle loop, the thumb presses on top of the handle, and the other fingers support the mug body to lift it. The recorder moves to the sink on the left, holds the mug upright under the faucet spout, and raises the faucet lever upward with the right hand. After the water starts, the left hand maintains the grasp while the right hand releases the lever and steadies the mug; both hands make small shakes and counterclockwise rotations under the stream to rinse the inside wall. The recorder pinches the faucet handle with the right hand and presses it down to shut off the water, while rotating the left wrist inward clockwise to invert the mug and pour the water into the drain. The right hand lets go of the lever and pulls back, and the left wrist rotates back to bring the mug opening upward before setting the mug on the table. The recorder turns left and walks to the refrigerator, grasps and pulls open the right door with the right hand, then grasps and pulls open the left door with the left hand. The right hand reaches to the top shelf on the left inside and grips the handle of a milk jug (thumb outside, fingers curled inside), then lifts it out. The left hand pushes the left refrigerator door closed, shifts to the edge of the right door, and pushes it inward—grabbing the handle midway to finish closing. Turning right, the recorder walks back to the mug, uses the left thumb and index finger to twist the jug cap counterclockwise, holds the cap, and reaches toward the mug. The recorder lifts the mug by the handle, tilts the milk jug by rotating the wrist downward and raising the arm, and pours a small amount of milk into the mug; the mug is set back down and the jug is brought upright. The left hand places the blue cap back onto the jug opening; the right hand sets the jug on the table while the left hand supports the jug side, and the right thumb and index finger tighten the cap clockwise. The recorder lifts the mug again and moves to the microwave, hooks the right fingers through the microwave door handle to pull it open, then releases the handle and places the mug with a small amount of milk inside. The left hand pushes the door closed, the right thumb reaches the control panel, the left hand releases the handle, and the right thumb presses a button to set the time or start heating.",
+    "action": [
+      {
+        "start_frame": 0,
+        "end_frame": 3,
+        "description": "Extend the left hand with fingers spread, palm moving toward the beige mug on the tabletop."
+      },
+      {
+        "start_frame": 3,
+        "end_frame": 20,
+        "description": "Thread the left index finger through the handle loop, press the thumb on top of the handle, support the mug body with the remaining fingers, and lift the mug."
+      },
+      {
+        "start_frame": 20,
+        "end_frame": 58,
+        "description": "Move to the sink on the left, place the mug upright under the faucet spout, and raise the faucet lever upward with the right hand."
+      },
+      {
+        "start_frame": 58,
+        "end_frame": 70,
+        "description": "After turning on the faucet, keep the left-hand grasp, release the faucet lever with the right hand, and use the right hand to steady the mug."
+      },
+      {
+        "start_frame": 70,
+        "end_frame": 102,
+        "description": "Under the running water, make small shakes and counterclockwise rotations with both hands so the water contacts the mug’s inner wall."
+      },
+      {
+        "start_frame": 102,
+        "end_frame": 112,
+        "description": "Reach out with the right hand and pinch the faucet handle."
+      },
+      {
+        "start_frame": 112,
+        "end_frame": 125,
+        "description": "Press the faucet handle downward to shut off the water."
+      },
+      {
+        "start_frame": 102,
+        "end_frame": 125,
+        "description": "Rotate the left wrist inward clockwise, invert the mug, and pour the water into the sink drain."
+      },
+      {
+        "start_frame": 125,
+        "end_frame": 130,
+        "description": "Release the faucet lever with the right hand and pull the right hand back."
+      },
+      {
+        "start_frame": 125,
+        "end_frame": 130,
+        "description": "Rotate the left wrist back so the mug opening faces up."
+      },
+      {
+        "start_frame": 130,
+        "end_frame": 142,
+        "description": "Place the mug on the table with the left hand."
+      },
+      {
+        "start_frame": 142,
+        "end_frame": 160,
+        "description": "Turn the body to the left."
+      },
+      {
+        "start_frame": 160,
+        "end_frame": 180,
+        "description": "Walk to the refrigerator."
+      },
+      {
+        "start_frame": 166,
+        "end_frame": 176,
+        "description": "Reach out with the right hand, spread the thumb and four fingers, slightly bring the four fingers together, and grasp the handle of the refrigerator’s right door."
+      },
+      {
+        "start_frame": 176,
+        "end_frame": 200,
+        "description": "Pull backward to open the refrigerator’s right door."
+      },
+      {
+        "start_frame": 186,
+        "end_frame": 196,
+        "description": "Reach out with the left hand, spread the thumb and four fingers in a grasp, and hold the handle of the refrigerator’s left door."
+      },
+      {
+        "start_frame": 196,
+        "end_frame": 218,
+        "description": "Pull outward to open the refrigerator’s left door."
+      },
+      {
+        "start_frame": 218,
+        "end_frame": 224,
+        "description": "Reach forward with the right hand toward the milk jug on the top shelf on the left inside the refrigerator."
+      },
+      {
+        "start_frame": 224,
+        "end_frame": 228,
+        "description": "Press the thumb on the outside of the jug handle, curl the four fingers together around the inside, and grasp the jug handle."
+      },
+      {
+        "start_frame": 228,
+        "end_frame": 264,
+        "description": "Lift the milk jug out of the refrigerator with the right hand."
+      },
+      {
+        "start_frame": 248,
+        "end_frame": 267,
+        "description": "With the left hand holding the left door handle, push inward to close the left refrigerator door."
+      },
+      {
+        "start_frame": 267,
+        "end_frame": 279,
+        "description": "Release the left hand and move it rightward to rest on the edge of the right refrigerator door."
+      },
+      {
+        "start_frame": 279,
+        "end_frame": 290,
+        "description": "Push the right refrigerator door inward to close it."
+      },
+      {
+        "start_frame": 290,
+        "end_frame": 300,
+        "description": "Halfway through the push, grasp the handle with the left hand and continue pushing."
+      },
+      {
+        "start_frame": 300,
+        "end_frame": 315,
+        "description": "Turn to the right."
+      },
+      {
+        "start_frame": 315,
+        "end_frame": 344,
+        "description": "Walk toward the mug that was just placed on the table."
+      },
+      {
+        "start_frame": 330,
+        "end_frame": 373,
+        "description": "Grip the milk jug cap with the left thumb and index finger and twist it counterclockwise to unscrew."
+      },
+      {
+        "start_frame": 373,
+        "end_frame": 386,
+        "description": "Hold the cap and reach it toward the mug."
+      },
+      {
+        "start_frame": 386,
+        "end_frame": 404,
+        "description": "Thread the index finger through the mug handle loop, press the thumb on top of the handle, and lift the mug above the table edge."
+      },
+      {
+        "start_frame": 404,
+        "end_frame": 449,
+        "description": "Keep the right hand gripping the jug handle (thumb pressed, four fingers curled), tilt the jug by rotating the wrist downward and raising the arm, and pour a small amount of milk into the mug with both hands coordinating."
+      },
+      {
+        "start_frame": 449,
+        "end_frame": 471,
+        "description": "Set the mug back on the table with the left hand."
+      },
+      {
+        "start_frame": 449,
+        "end_frame": 462,
+        "description": "Bring the milk jug upright with the right hand, keeping the opening facing up."
+      },
+      {
+        "start_frame": 471,
+        "end_frame": 488,
+        "description": "Place the blue cap held in the left hand back onto the jug opening."
+      },
+      {
+        "start_frame": 485,
+        "end_frame": 505,
+        "description": "Set the milk jug on the table with the right hand while holding it by the handle."
+      },
+      {
+        "start_frame": 488,
+        "end_frame": 505,
+        "description": "Release the cap with the left hand, spread the thumb and four fingers, slightly bring the four fingers together, and support the left side of the milk jug."
+      },
+      {
+        "start_frame": 505,
+        "end_frame": 538,
+        "description": "Release the jug handle with the right hand and tighten the jug cap clockwise using the right thumb and index finger."
+      },
+      {
+        "start_frame": 538,
+        "end_frame": 545,
+        "description": "Grasp the mug handle again with the left hand and lift the mug."
+      },
+      {
+        "start_frame": 545,
+        "end_frame": 558,
+        "description": "Turn the body to the left."
+      },
+      {
+        "start_frame": 558,
+        "end_frame": 590,
+        "description": "Move toward the microwave and come to the front of it."
+      },
+      {
+        "start_frame": 570,
+        "end_frame": 586,
+        "description": "Reach out with the right hand, slightly curl the four fingers, and hook the fingers through the microwave door handle."
+      },
+      {
+        "start_frame": 586,
+        "end_frame": 600,
+        "description": "Pull the microwave door outward to open it."
+      },
+      {
+        "start_frame": 600,
+        "end_frame": 607,
+        "description": "Release the door handle with the right hand."
+      },
+      {
+        "start_frame": 607,
+        "end_frame": 630,
+        "description": "Place the mug containing a small amount of milk into the microwave with the left hand."
+      },
+      {
+        "start_frame": 630,
+        "end_frame": 646,
+        "description": "Release the handle and withdraw the left hand."
+      },
+      {
+        "start_frame": 646,
+        "end_frame": 666,
+        "description": "Curl the four fingers of the left hand around the door handle, press the thumb on the handle, and push inward to close the microwave door."
+      },
+      {
+        "start_frame": 654,
+        "end_frame": 668,
+        "description": "Extend the right thumb toward the microwave control panel."
+      },
+      {
+        "start_frame": 668,
+        "end_frame": 672,
+        "description": "Release the door handle with the left hand."
+      },
+      {
+        "start_frame": 668,
+        "end_frame": 672,
+        "description": "Press a button with the right thumb to set the time or start heating."
+      }
+    ]
+  }
+]
