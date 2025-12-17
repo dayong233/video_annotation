@@ -2,7 +2,7 @@
 
 # 🎥 精细化人体动作与物理原理标注规范
 
-本项目旨在构建一个高精度的多模态数据集，重点关注 **微观动作** 
+本项目旨在构建一个高精度的多模态数据集，重点关注 **微观动作**
 
 - **一段连贯的 Caption**（语义更强）；
 - （可选）在 Caption 内用 **动作锚点标签 `<A1>...</A1>`** 标记需要对齐的原子动作；
@@ -23,25 +23,26 @@
 
   "fps": 15,
 
-  // 一段连贯的叙述文本：用 <A1>...</A1> 标出需要对齐的原子动作
-  "caption": "A male athlete stands in the warm-up area. <A1>He shrugs his shoulders and takes a deep breath.</A1> <A2>He walks to the barbell.</A2> ...",
+  // 一段连贯的叙述文本：用 `<A1>`...`</A1>` 标出需要对齐的原子动作
+  "caption": "A male athlete stands in the warm-up area. `<A1>`He shrugs his shoulders and takes a deep breath.`</A1>` `<A2>`He walks to the barbell.`</A2>` ...",
 
   // 对齐表：每个锚点 id 至少要提供起止时间/帧
   "actions": [
     {
       "id": "A1",
 
-      // 使用frame
+    // 使用frame
       "start_frame": 72,
       "end_frame": 113,
 
-      // 必须与caption里的描述一致
+    // 必须与caption里的描述一致
       "description": "He shrugs his shoulders and takes a deep breath.",
     }
   ]
 }
 
 ### 1.1 必须满足的约束（强约束）
+
 - 时间表达 `start_frame/end_frame + fps`
 
 ### 1.2 允许的情况（重要：不是错误）
@@ -85,15 +86,18 @@
 很多视频会出现 **连续重复** 的动作（如引体向上、深蹲、跳绳、搅拌多圈、反复擦拭等）。这类动作天然包含“次数 (count)”信息，标注时允许两种粒度，**默认推荐 summary**：
 
 #### 方案 R1（推荐）：Summary 锚点 + 次数
+
 - Caption 写法：用 **一个锚点**概括整段重复动作，并在锚点文本里写清 **次数 + 动作质量**。
   - 例：`<A10>He performs four standard pull-ups in a row.</A10>`
 - 适用场景：重复动作 **执行方式基本一致**、没有明显失败/节奏变化。
 
 #### 方案 R2：逐次锚点（每一次 repetition 一个锚点）
+
 - Caption 写法：对每次 repetition 单独打锚点。
 - 适用场景：每次 repetition **质量/幅度/速度明显不同**，或出现 **失败/停顿/代偿动作**。
 
 #### 选择规则（请按这个来，避免纠结）
+
 - **默认用 R1**：只要重复动作“差不多”，就用一个锚点 + count，标注效率最高、语义也最连贯。
 - **用 R2 的触发条件**（满足任意一条即可）：
   1) 每次 repetition 的动作细节有明显差异（节奏、幅度、是否到位）。
@@ -161,6 +165,6 @@ A male athlete stands in the preparation area. <A1>He shrugs his shoulders and t
 
 **建议检查方向：**
 
-1) **时间轴确认：** 是否可以进一步拆分？拆分的帧节点是否准确（依据动作语义完整性）
+1) **时间轴确认：** 是否可以进一步拆分？拆分的帧节点是否准确（依据动作语义完整性）？**基本必改**
 2) **细粒度完善：** 每个原子动作的描述是否足够详细
 3) **事实性修正：** 对于caption和description的描述是否正确，左右手/脚、接触点与受力方式是否与画面一致
